@@ -34,14 +34,10 @@ Option 1: Using Jupyter Notebook
 
 1. Start Jupyter Notebook on your local machine
 2. Open the text_to_image.ipynb notebook
-3. Run the cells sequentially
-4. For the Gradio interface, run the last cell and open the local URL provided
-5. Use either the basic generation function or the advanced interface with Gradio
 
 Option 2: Direct Gradio Interface
 
 1. Run `python app.py`
-2. Open the local URL provided in your browser
 
 ### Parameters
 
@@ -78,9 +74,6 @@ Opción 1: Usando Jupyter Notebook
 
 1.  Iniciar Jupyter Notebook en su máquina local
 2.  Abrir el notebook text_to_image.ipynb
-3.  Ejecutar las celdas secuencialmente
-4.  Para la interfaz Gradio, ejecutar la última celda y abrir la URL local proporcionada
-5.  Usar la función de generación básica o la interfaz avanzada con Gradio
 
 Opción 2: Interfaz Gradio Directa
 
