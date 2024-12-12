@@ -1,0 +1,24 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Model weights and large files
+*.ckpt
+*.safetensors
+*.bin
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store 
